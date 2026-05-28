@@ -1,0 +1,6 @@
+PyQt5>=5.15.0
+PyQtWebEngine>=5.15.0
+opencv-python>=4.5.0
+pyzbar>=0.1.9
+Pillow>=8.0.0
+pyinstaller>=5.0.0
